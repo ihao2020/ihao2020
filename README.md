@@ -18,7 +18,8 @@ Making the web fun and exciting one pixel at a time 🚀✨.
 
 ## :pencil: Recent Blog
 
-
+<!-- START_SECTION:blog -->
+<!-- END_SECTION:blog -->
 
 ---
 
