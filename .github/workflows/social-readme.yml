@@ -12,6 +12,6 @@ jobs:
   update-social:
     runs-on: ubuntu-latest
     steps:
-      - uses: ihao2020/social-readme@master
+      - uses: ihao2020/social-readme@latest
         with:
           blog_rss_link: https://ihao.site/atom.xml
