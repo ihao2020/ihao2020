@@ -2,7 +2,7 @@
 
 #### Social links
 
-[<img align="right" width="35%" src="https://github.com/ihao2020/ihao2020/blob/main/code.gif" />](https://github.com/ihao2020)
+[<img align="right" width="35%" src="https://github.com/ihao2020/PICS/blob/main/img/code.gif" />](https://github.com/ihao2020)
 
 [![Website](https://img.shields.io/badge/Website-4FC08D?style=for-the-badge&logo=powerpages&logoColor=white)](https://ihao.site/)
 [![Blog](https://img.shields.io/badge/blog-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://blog.ihao.site/)
