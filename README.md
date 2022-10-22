@@ -17,7 +17,7 @@ Making the web fun and exciting one pixel at a time 🚀✨.
 ## :pencil: Recent Blog
 
 <!-- START_SECTION:blog -->
-
+* <a href='https://ihao.site/posts/16107.html' target='_blank'>Hello World</a> - 2022-10-20
 <!-- END_SECTION:blog -->
 
 ---
