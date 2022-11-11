@@ -12,7 +12,7 @@ I'm a master student in China.
 
 #### <i>Stay awesome!</i>
 
-Making the web fun and exciting one pixel at a time 🚀✨.
+Making the web fun and exciting one pixel at a time. 🚀✨
 
 ## :pencil: Recent Blog
 
