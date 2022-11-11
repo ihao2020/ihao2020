@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://ihao.site/">Yang Hao</a> :wave: </h1>
+<h1 align="center">Hi there, I'm <a href="https://ihao.site/">iHao</a> :wave: </h1>
 
 #### Social links
 
