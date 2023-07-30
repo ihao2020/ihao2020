@@ -8,7 +8,7 @@
 [![Blog](https://img.shields.io/badge/blog-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://blog.ihao.site/)
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ihao2020/)
 
-I'm a master student in China.
+I'm a developer in China.
 
 #### <i>Stay awesome!</i>
 
