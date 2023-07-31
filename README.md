@@ -17,7 +17,11 @@ Making the web fun and exciting one pixel at a time. 🚀✨
 ## :pencil: Recent Blog
 
 <!-- START_SECTION:blog -->
-
+* <a href='https://blog.ihao.site/posts/cab28e48.html' target='_blank'>HackingLab 创新关 writeup</a> - 2022-11-09
+* <a href='https://blog.ihao.site/posts/1b3b64e6.html' target='_blank'>HackingLab 综合关 writeup</a> - 2022-11-09
+* <a href='https://blog.ihao.site/posts/456e0db3.html' target='_blank'>HackingLab 解密关 writeup</a> - 2022-11-09
+* <a href='https://blog.ihao.site/posts/25c240cd.html' target='_blank'>HackingLab 上传关 writeup</a> - 2022-11-09
+* <a href='https://blog.ihao.site/posts/e260519.html' target='_blank'>HackingLab 注入关 writeup</a> - 2022-11-09
 <!-- END_SECTION:blog -->
 
 ---
